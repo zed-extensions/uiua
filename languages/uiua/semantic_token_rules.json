@@ -1,0 +1,51 @@
+[
+  {
+    "token_type": "comment",
+    "font_style": "normal"
+  },
+  {
+    "token_type": "monadic_function",
+    "foreground_color": "#95d16aff"
+  },
+  {
+    "token_type": "dyadic_function",
+    "foreground_color": "#54b0fcff"
+  },
+  {
+    "token_type": "uiua_number",
+    "foreground_color": "#ea5"
+  },
+  {
+    "token_type": "noadic_function",
+    "foreground_color": "#ed5e6a"
+  },
+  {
+    "token_type": "triadic_function",
+    "foreground_color": "#8078f1"
+  },
+  {
+    "token_type": "tetradic_function",
+    "foreground_color": "#f576d8"
+  },
+  {
+    "token_type": "monadic_modifier",
+    "foreground_color": "#f0c36f"
+  },
+  {
+    "token_type": "dyadic_modifier",
+    "foreground_color": "#cc6be9"
+  },
+  {
+    "token_type": "triadic_modifier",
+    "foreground_color": "#40f0a0"
+  },
+  {
+    "token_type": "uiua_module",
+    "foreground_color": "#d7be8c"
+  },
+  {
+    "token_type": "uiua_string",
+    "foreground_color": "#20f9fc",
+    "style": ["string"]
+  }
+]
